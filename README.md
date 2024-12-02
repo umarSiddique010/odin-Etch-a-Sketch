@@ -1,5 +1,6 @@
 # odin-Etch_a_Sketch
-This project is assignment project JavaScript Foundation section of The Odin Projects 
+This project is assignment project from HTML and CSS intermediate section of The Odin Projects. Although the Project is given by Odin by All the Functionality was created by me
+
 
 ## Skills Used in HTML, CSS, and JavaScript
  ### HTML
@@ -19,3 +20,4 @@ This project is assignment project JavaScript Foundation section of The Odin Pro
 - Using the opacity property for progressive darkening.
 - Implementing loops and conditionals for grid generation and interactivity.
 
+## see my work live -> https://umarsiddique010.github.io/odin-Etch_a_Sketch/
